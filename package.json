@@ -1,5 +1,6 @@
 {
-    "name": "admad-task",
+    "homepage": "https://kucingz.github.io/admad-recruitment-task",
+    "name": "admad-recruitment-task",
     "private": true,
     "version": "0.0.0",
     "type": "module",
